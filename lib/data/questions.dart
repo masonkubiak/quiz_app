@@ -46,4 +46,13 @@ const questions = [
       'It\'s his true passion',
     ],
   ),
+  QuizQuestion(
+    'What is Hokuto\'s favorite color?',
+    [
+      'Black',
+      'Blue',
+      'Orange',
+      'White',
+    ],
+  ),
 ];
